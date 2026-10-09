@@ -4,4 +4,5 @@ Nasza aplikacja rozwiązuje ten problem wykorzystując AI które po analizie zdj
 2. jaką ma objętość, masę oraz gęstość
 3. jakim procentem kotleta jest sama panierka a ile to mięso
 4. ile taki posiłek ma kilokalorii, białka, tłuszczów oraz węglowodanów
+
 W przypadku trafienia na zbyt ciężki przypadek agent poprosi użytkownika o podanie dodatkowych danych i/lub podjęcie akcji np. wzięcie gryza, podniesienie kotleta i wysłanie nowego zdjęcia.
